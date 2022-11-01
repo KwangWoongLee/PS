@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# My
+x64/
+SolvedAC/x64/
+.vs/
